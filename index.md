@@ -4,7 +4,7 @@ In addition to this survey, an app is being developed by UCL IRDR Centre for dPH
 
 If you have any questions or suggestions, we would be delighted to hear from you on irdr.dphe@ucl.ac.uk 
 
-# Privacy Policy # 
+## Privacy Policy ##
 
 University College London IRDR Centre for Digital Public Health in Emergencies (dPHE) designed the SurveyMonkey questionnaires. The study has received ethical approval by UCL Institute for Risk and Disaster Reduction.  
 
@@ -14,7 +14,7 @@ This page is used to inform visitors regarding our policies with the collection,
 
 If you choose to take part in this research, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service and for our research study on human lifestyle changes in relation to COVID-19. We will not use or share your information with anyone except as described in this Privacy Policy.
  
-# Information Collection and Use # 
+## Information Collection and Use ##
 
 We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances: To invite you to the other parts of this research study and to conduct research into the way citizens changed their lifestyle during and after the lockdown in order to inform public health policymakers and future strategies on support for citizens in similar crises and pandemics. 
 
@@ -29,14 +29,14 @@ We may also use anonymised data, meaning data from which you cannot be identifie
 
 Anonymised data may also be used in published reports or journals and at conferences. Results of the study and analyses will be included in published international journal articles and conferences, seminars, workshops, websites, social media, newspaper articles, and future proposal bids. We will share the published results with users who provide us with a valid email address.
 
-# Lawful basis for processing #
+## Lawful basis for processing ##
 
 Data Protection Legislation requires that we meet certain conditions before we are allowed to use your data in the manner described in this notice, including having a "lawful basis" for the processing. The basis for processing will be Consent. You have given us your consent for processing your personal data.
 
-# Data retention #
+## Data retention ##
 We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements, according to UCL retention schedule, no more than 5 years after the end of the project.
 
-# Your rights #
+## Your rights ##
 
 Under certain circumstances, you may have the following rights under data protection legislation in relation to your personal data:
 * Right to request access to your personal data;
