@@ -72,5 +72,5 @@ If you have comments and suggestions about the app itself do not hesitate to con
 ## Complaints ##
 If you wish to complain about our use of personal data, please send an email with the details of your complaint to the Data Protection Officer so that we can look into the issue and respond to you.
  
-You also have the right to lodge a complaint with the Information Commissioner's Office (ICO) (the UK data protection regulator).  For further information on your rights and how to complain to the ICO, please refer to the ICO website ( https://ico.org.uk/ ).
+You also have the right to lodge a complaint with the Information Commissioner's Office (ICO) (the UK data protection regulator).  For further information on your rights and how to complain to the ICO, please refer to the [ICO website](https://ico.org.uk/).
 
