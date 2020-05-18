@@ -1,1 +1,0 @@
-# survey-privacy-policy.github.io
