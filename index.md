@@ -1,4 +1,4 @@
-# Welcome to the My Lockdown Lifestyle Survey – To Zoom or not to Zoom: How has your lifestyle changed during lockdown? #
+## Welcome to the My Lockdown Lifestyle Survey – To Zoom or not to Zoom: How has your lifestyle changed during lockdown? ##
 
 In addition to this survey, an app is being developed by UCL IRDR Centre for dPHE as part of the research project investigating how people’s lifestyles have changed during the crisis. The app is complemented by the #MyLockdownJournal competition on Twitter and Instagram - why not join in?
 
